@@ -506,7 +506,7 @@ export default function FitnessApp() {
     return (
       <div className="space-y-6">
         <div className="text-center">
-          <h2 className="text-2xl font-bold text-gray-800">Calendrier d'entraînement</h2>
+          <h2 className="text-2xl font-bold text-gray-800">Calendrier d&quot;entraînement</h2>
           <p className="text-gray-600">Cycle 3 jours ON / 1 jour OFF</p>
         </div>
 
@@ -632,7 +632,7 @@ export default function FitnessApp() {
                 <div className="text-center text-gray-700 space-y-4">
                   <div className="text-5xl">☕</div>
                   <h3 className="text-xl font-bold">Jour de repos bien mérité</h3>
-                  <p className="text-gray-600">Profite de ce moment pour te détendre, marcher un peu ou t'étirer !</p>
+                  <p className="text-gray-600">Profite de ce moment pour te détendre, marcher un peu ou t&quot;étirer !</p>
                 </div>
               )}
             </div>
@@ -646,7 +646,7 @@ export default function FitnessApp() {
           <div className="space-y-2 text-sm">
             <div className="flex items-center gap-3">
               <div className="w-4 h-4 bg-blue-50 rounded border"></div>
-              <span>Jour d'entraînement</span>
+              <span>Jour d&quot;entraînement</span>
             </div>
             <div className="flex items-center gap-3">
               <div className="w-4 h-4 bg-gray-100 rounded"></div>
