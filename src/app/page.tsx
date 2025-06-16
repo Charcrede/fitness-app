@@ -120,7 +120,7 @@ const workoutProgram: WorkoutDay[] = [
     workout: [
       { name: "Abdos debout", sets: 1, reps: "24", description: "Contrôle du mouvement", restTime: 45, video: "https://www.youtube.com/watch?v=idfxeOpIJdM" },
       { name: "Escalade", sets: 1, reps: "24", description: "Dos droit", restTime: 45, video: "https://www.youtube.com/watch?v=92V8s54o88Q" },
-      { name: "Crunch abdominal", sets: 1, reps: "14", description: "Abdos contractés", restTime: 30, video: "https://www.youtube.com/watch?v=1x2d587m86U" },
+      { name: "Crunch abdominal", sets: 1, reps: "14", description: "Abdos contractés", restTime: 30, video: "https://youtu.be/C0NQqI9YeyQ?si=Ki1oIfjQOml7y3Xl" },
       { name: "Twist russe", sets: 1, reps: "16", description: "Rotation contrôlée", restTime: 30, video: "https://www.youtube.com/watch?v=779lZlD7r1s" },
       { name: "Planche", sets: 1, reps: "40 sec", duration: 40, description: "Gaine bien les abdos", restTime: 30, video: "https://www.youtube.com/watch?v=6OVJ9em09ro" },
       { name: "Renforcement des abdos", sets: 1, reps: "12", description: "Contrôle du mouvement", restTime: 30, video: "https://www.youtube.com/watch?v=53KzU1lT7yI" },
